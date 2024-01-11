@@ -1,2 +1,4 @@
-# -Optimizing-Production-in-Food-Industry
+# Optimizing-Production-in-Food-Industry
 Prescriptive modeling and optimization
+Associated with University of Wisconsin-MadisonAssociated with University of Wisconsin-Madison
+The project aims to optimize the production plan for Four Lakes Dining Market (UW Madison's Dining and Culinary Services) by formulating a mixed-integer programming model. By determining the optimal quantities of various food products to produce, considering raw material constraints and minimum production requirements, the goal is to maximize profits and expand market share. The project incorporates minimum production constraints, stipulating that for each food product, a predetermined quantity must be produced, thereby only initiating production for a specific food line when a commitment to produce that line is made.
